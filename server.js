@@ -1,1 +1,1 @@
-console.log("This is a server code...")
+console.log("This is a server side code...")
